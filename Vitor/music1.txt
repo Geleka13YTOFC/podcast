@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Vitor sigma</title>
+    <link>https://geleka13ytofc.github.io/podcast/vitor/</link>
+    <language>pt-br</language>
+    <itunes:author>V1ctor S1gm4</itunes:author>
+    <itunes:summary>Podcast privado com episódios pessoais</itunes:summary>
+    <description>Podcast privado com episódios pessoais</description>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://geleka13ytofc.github.io/podcast/vitor/img.HEIC" />
+    
+    <item>
+      <title>Vitor Sigma - Brainrot Família🦂🐬🦐🐠🦈</title>
+      <enclosure url="https://geleka13ytofc.github.io/podcast/vitor/music1.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>episodio1</guid>
+      <pubDate>Tue, 17 Jun 2025 20:00:00 GMT</pubDate>
+      <description>TungSahur Vitor Sigma</description>
+      <itunes:author>V1tor S1gm4</itunes:author>
+    </item>
+ </channel>
+</rss>
